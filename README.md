@@ -29,8 +29,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 **1. Projeyi klonlayın:**
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/kutuphane-sistemi.git](https://github.com/KULLANICI_ADIN/kutuphane-sistemi.git)
-cd kutuphane-sistemi
+git clone https://github.com/nuritiras/okulkutuphane.git
+cd okulkutuphane
 
 ```
 
