@@ -77,6 +77,4 @@ Tarayıcınızı açın ve şu adrese gidin: `http://127.0.0.1:8000/`
 
 ```
 
-Bu dosya ile projen artık tam anlamıyla bir "Açık Kaynak" portfolyo projesi haline geldi! 
-
 ```
